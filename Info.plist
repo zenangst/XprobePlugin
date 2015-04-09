@@ -18,14 +18,6 @@
 	<string>${CURRENT_PROJECT_VERSION}</string>
 	<key>CFBundleVersion</key>
 	<string>${CURRENT_PROJECT_VERSION}</string>
-	<key>NSPrincipalClass</key>
-	<string>XprobePluginMenuController</string>
-	<key>XCGCReady</key>
-	<true/>
-	<key>XCPluginHasUI</key>
-	<false/>
-	<key>XC4Compatible</key>
-	<true/>
 	<key>DVTPlugInCompatibilityUUIDs</key>
 	<array>
 		<string>63FC1C47-140D-42B0-BB4D-A10B2D225574</string>
@@ -36,6 +28,15 @@
 		<string>FEC992CC-CA4A-4CFD-8881-77300FCB848A</string>
 		<string>992275C1-432A-4CF7-B659-D84ED6D42D3F</string>
 		<string>A16FF353-8441-459E-A50C-B071F53F51B7</string>
+		<string>9F75337B-21B4-4ADC-B558-F9CADF7073A7</string>
 	</array>
+	<key>NSPrincipalClass</key>
+	<string>XprobePluginMenuController</string>
+	<key>XC4Compatible</key>
+	<true/>
+	<key>XCGCReady</key>
+	<true/>
+	<key>XCPluginHasUI</key>
+	<false/>
 </dict>
 </plist>

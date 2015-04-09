@@ -136,7 +136,7 @@
 		BBDEF79319293F35000F1C04 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BBDEF79719293F36000F1C04 /* XprobeBundle.bundle */,
+				BBDEF79719293F36000F1C04 /* XprobeBundle.loader */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -198,10 +198,10 @@
 /* End PBXProject section */
 
 /* Begin PBXReferenceProxy section */
-		BBDEF79719293F36000F1C04 /* XprobeBundle.bundle */ = {
+		BBDEF79719293F36000F1C04 /* XprobeBundle.loader */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.cfbundle;
-			path = XprobeBundle.bundle;
+			path = XprobeBundle.loader;
 			remoteRef = BBDEF79619293F36000F1C04 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
